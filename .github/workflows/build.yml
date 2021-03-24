@@ -19,6 +19,9 @@ jobs:
       uses: sonarsource/sonarcloud-github-action@master
       with:
         projectBaseDir: lib
+        args: >
+          -Dsonar.organization=anurenjini78
+          -Dsonar.projectKey=Anurenjini78_githubworkshop
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
