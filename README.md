@@ -1,4 +1,3 @@
-[![Board Status](https://dev.azure.com/anurenjinija/2768ccd7-d6cc-4421-815a-3207a8f5b1ad/42cf5bd2-fac9-4dfc-9ed0-5c3e0448f6aa/_apis/work/boardbadge/ece43229-717b-49b4-9f80-6e31b2939393)](https://dev.azure.com/anurenjinija/2768ccd7-d6cc-4421-815a-3207a8f5b1ad/_boards/board/t/42cf5bd2-fac9-4dfc-9ed0-5c3e0448f6aa/Microsoft.RequirementCategory)
 ## Welcome
 
 This repositoryy contains the base project part of our on-site GitHub Verified Partner workshop program. It is meant to be used for in-classroom training under the supervision of GitHub coaches.
