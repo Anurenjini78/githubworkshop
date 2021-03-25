@@ -2,9 +2,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ staging ]
+    branches: [ master ]
   pull_request:
-    branches: [ staging ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -54,5 +54,8 @@ jobs:
       run: |
        npm install
        npm test
+    - name: Sync Pull Requests to Azure Boards
+      uses: danhellem/github-actions-pr-to-work-item@0.03
+  
    
   
