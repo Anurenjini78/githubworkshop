@@ -12,4 +12,4 @@ jobs:
         with:
           project: Challenge4
           column: Done
-          repo-token: ${{ secrets.TOKEN_GIT }}
+          repo-token: ${{ secrets.GH_TOKEN }}
