@@ -1,6 +1,6 @@
 ## Welcometr
 wfdg
-This repositoryy contains the basee project part of our on-site GitHub Verified Partner workshop program. It is meant to be used for in-classroom training under the supervision of GitHub coaches.jgf
+This repositoryy contains the basee project part of our on-site GitHub Verified Partner workshop program. It is meant to be used for in-classroom training under the supervision of GitHub coaches.jgfas
 
 This is the NodeJS version of our "Tonkotsu" workshopy webapp. The codebase is pretty simple: it's a NodeJS app that will connect to GitHub's [Octocat API endpoint](https://api.github.com/octocat) and return the Zen quote of the day. E.g.:
 
