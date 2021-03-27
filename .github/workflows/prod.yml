@@ -18,6 +18,7 @@
 on:
  pull_request:
     types: [ closed ]
+    branches: [ master ]
 
 env:
   AZURE_WEBAPP_NAME: rise2    # set this to your application's name
