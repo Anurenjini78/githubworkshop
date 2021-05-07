@@ -1,7 +1,7 @@
 ## Welcome
 staging
 wfdg
- staging
+ stagingg
 This repositoryy contains the basee project part of our on-site GitHub Verified Partner workshop program. It is meant to be used for in-classroom training under thsfe supervision of GitHub coaches.jgfasdh
 
 This repositoryy contains the basee project part of our on-site GitHub Verified Partner workshop program. It is meant to be used for in-classroom training under thsfe supervision of GitHubh coaches.jgfas
